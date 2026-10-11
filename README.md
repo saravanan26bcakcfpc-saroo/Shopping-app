@@ -60,7 +60,7 @@ ShopEase is a modern and user-friendly shopping application UI/UX design created
 <img width="450" height="500" alt="Shopping app" src="https://github.com/user-attachments/assets/b80292fd-2526-4573-affe-4cd9e0af643e" />
 
 ## Figma Prototype link
-
+https://www.figma.com/design/kRTovv1sb88d8ze4VZ4hbb/shopping-app?node-id=0-1&t=aI6vBdaqWvBpdRoE-1
 
 # Developed By
 Student’s Name: Saravanan.M
